@@ -1,6 +1,6 @@
 # Guide d'utilisation - Projet Kafka et Spark pour le streaming de données en temps réel
 
-Ce guide vous fournira les instructions nécessaires pour configurer et utiliser un projet basé sur Kafka et Spark pour le streaming de données en temps réel. Le projet est conçu pour fonctionner sur une machine Ubuntu. Assurez-vous d'avoir les privilèges sudo pour installer des packages et exécuter des commandes système.
+Ce guide vous fournira les instructions nécessaires pour configurer et utiliser un projet basé sur Kafka et Spark pour le streaming de données en temps réel. Le projet est conçu pour fonctionner sur une machine Ubuntu. 
 
 ## Installation des prérequis
 
